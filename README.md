@@ -1,7 +1,6 @@
 # ZephyrMarkt
 
-Offline-first POS & inventory system for vendors, booths, and small shops.  
-Built solo in under a month.  
+Offline-first POS & inventory system for vendors, booths, and small shops.
 Designed to work anywhere no WiFi, no servers, no subscriptions, no headaches.
 
 It’s the system I wish existed when I needed one.  
