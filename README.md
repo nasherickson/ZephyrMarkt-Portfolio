@@ -180,5 +180,5 @@ It was built because real people needed it.
 It’s the product of fieldwork, problem solving,  
 and refusing to accept “that’s just how POS systems are.”
 
-It’s proof of what I do best:  
+It’s proof of what I do best.  
 **learn fast, design clean, and make tools that actually work.**
